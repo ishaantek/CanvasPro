@@ -3,7 +3,7 @@
 ![Preview](preview.png)
 <br>
 <br>
-The most powerful Chrome extension for Canvas 🔥
+The most powerful Chrome extension for Canvas 👨🏻‍🎓
 
 👉 Get it now [for Chrome](https://chrome.google.com/webstore/detail/canvas-pro/llaiiaclbjbncnalcbhbkfocadfgkfgc)
 
