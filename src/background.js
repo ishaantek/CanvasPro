@@ -42,7 +42,7 @@ chrome.runtime.onInstalled.addListener((details) => {
 
   if (details.reason === "install") {
     chrome.tabs.create({
-      url: "https://canvas.ishaantek.com/welcome",
+      url: "https://canvas.ishaantek.com/welcome.html",
     });
     chrome.storage.local.set(newDefaults);
     chrome.storage.local.set(oldDefaults);
