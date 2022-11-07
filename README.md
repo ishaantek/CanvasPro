@@ -1,4 +1,4 @@
-# BlazeX
+# Canvas Pro
 
 ![Preview](preview.png)
 <br>
@@ -17,7 +17,7 @@ Made by [Ishaan Garg](https://twitter.com/ishaantek)
 [comment]: <> (Product Hunt)
 
 ## Table of contents
-- [BlazeX](#CanvasPro)
+- [Canvas Pro](#CanvasPro)
   - [Table of contents](#table-of-contents)
   - [Features](#features)
   - [Self-hosting Canvas Pro](#self-hosting-CanvasPro)
@@ -40,8 +40,8 @@ You can run Canvas Pro locally without having to install it from the Chrome Stor
 
 1. Download the code. In the web version of GitHub, you can do that by clicking the green "Code" button, and then "Download ZIP".
 2. Go to chrome://extensions/ in your browser, and [enable developer mode](https://developer.chrome.com/docs/extensions/mv2/faq/#:~:text=You%20can%20start%20by%20turning,a%20packaged%20extension%2C%20and%20more.).
-3. Drag the [src folder](https://github.com/ishaantek/blazex/tree/master/src) (make sure it's a folder and not a ZIP file, so unzip first), or click on the "Load unpacked" button and locate the folder.
-4. That's it, you will now be able to use BlazeX locally.
+3. Drag the [src folder](https://github.com/ishaantek/CanvasPro/tree/master/src) (make sure it's a folder and not a ZIP file, so unzip first), or click on the "Load unpacked" button and locate the folder.
+4. That's it, you will now be able to use Canvas Pro locally.
 
 ## Libraries used
 -   Styled with [Sass](https://sass-lang.com/guide)
